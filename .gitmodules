@@ -1,0 +1,3 @@
+[submodule "IBMCourseEventPlanner"]
+	path = IBMCourseEventPlanner
+	url = https://github.com/brent0w/IBMCourseEventPlanner
